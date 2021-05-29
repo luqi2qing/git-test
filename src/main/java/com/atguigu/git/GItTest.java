@@ -13,11 +13,11 @@ public class GItTest {
         System.out.println("hot-fix test!");
         System.out.println("push test!");
         System.out.println("pull test!");
-        System.out.println("luqi test!");
-        System.out.println("luqi test2!");
-        System.out.println("luqi22 test23!");
-        System.out.println("luqi22 test23!");
-        System.out.println("luqi test23!");
-        System.out.println("luqi test23!");
+        System.out.println("long long distance luqi test!");
+        System.out.println("long long distance luqi test2!");
+        System.out.println("long long distance luqi22 test23!");
+        System.out.println("long long distance luqi22 test23!");
+        System.out.println("long long distance luqi test23!");
+        System.out.println("long long distance luqi test23!");
     }
 }
