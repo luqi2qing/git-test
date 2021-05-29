@@ -15,8 +15,8 @@ public class GItTest {
         System.out.println("pull test!");
         System.out.println("luqi test!");
         System.out.println("luqi test2!");
-        System.out.println("luqi test23!");
-        System.out.println("luqi test23!");
+        System.out.println("luqi22 test23!");
+        System.out.println("luqi22 test23!");
         System.out.println("luqi test23!");
         System.out.println("luqi test23!");
     }
