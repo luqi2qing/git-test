@@ -13,11 +13,11 @@ public class GItTest {
         System.out.println("hot-fix test!");
         System.out.println("push test!");
         System.out.println("pull test!");
-        System.out.println("gitee test!");
-        System.out.println("gitee test2!");
-        System.out.println("gitee test23!");
-        System.out.println("gitee test23!");
-        System.out.println("gitee test23!");
-        System.out.println("gitee test23!");
+        System.out.println("luqi test!");
+        System.out.println("luqi test2!");
+        System.out.println("luqi test23!");
+        System.out.println("luqi test23!");
+        System.out.println("luqi test23!");
+        System.out.println("luqi test23!");
     }
 }
