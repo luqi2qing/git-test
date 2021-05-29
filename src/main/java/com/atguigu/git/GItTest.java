@@ -19,5 +19,6 @@ public class GItTest {
         System.out.println("long long distance luqi22 test23!");
         System.out.println("long long distance luqi test23!");
         System.out.println("long long distance luqi test23!");
+        System.out.println("three push push push!");
     }
 }
