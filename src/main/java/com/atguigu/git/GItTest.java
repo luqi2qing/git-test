@@ -22,5 +22,6 @@ public class GItTest {
         System.out.println("three push push push!");
         System.out.println("大坏蛋!");
         System.out.println("大坏蛋!2");
+        System.out.println("大坏蛋!延续版3");
     }
 }
